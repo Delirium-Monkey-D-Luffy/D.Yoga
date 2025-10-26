@@ -1,0 +1,54 @@
+cat > ~/wasmd/setup_monkey.sh << 'EOF'
+# --- 1. DÉFINITION ET NETTOYAGE ---
+HOME_DIR="$HOME/.wasmd"
+CHAIN_ID="localnet"
+MONIKER="mynode"
+KEYRING_BACKEND="test"
+
+echo "--- Étape 1: Nettoyage complet de l'environnement de test... ---"
+# Nettoyage de l'état de la base de données et des clés privées
+wasmd tendermint unsafe-reset-all --home "$HOME_DIR"
+# Suppression des fichiers de configuration pour forcer une recréation propre
+rm -rf "$HOME_DIR/config" "$HOME_DIR/data"
+rm -f my_wallet.json
+
+
+# --- 2. INITIALISATION ET CRÉATION DU VALIDATEUR ---
+echo "--- Étape 2: Initialisation de la chaîne et création du validateur... ---"
+wasmd init "$MONIKER" --chain-id "$CHAIN_ID" --home "$HOME_DIR"
+
+# Suppression de la clé existante pour éviter les conflits (au cas où)
+wasmd keys delete my-wallet --keyring-backend "$KEYRING_BACKEND" --home "$HOME_DIR" -y 2>/dev/null
+
+# Création de la clé
+wasmd keys add my-wallet --keyring-backend "$KEYRING_BACKEND" --home "$HOME_DIR" --output json > my_wallet.json 2>/dev/null
+WALLET_ADDRESS=$(jq -r '.address' my_wallet.json)
+
+# Financement du compte (2 T)
+wasmd genesis add-genesis-account "$WALLET_ADDRESS" 2000000000000stake --home "$HOME_DIR" --keyring-backend "$KEYRING_BACKEND"
+
+# Création du gentx (1 M délégué)
+wasmd genesis gentx my-wallet 1000000stake --chain-id "$CHAIN_ID" --keyring-backend "$KEYRING_BACKEND" --home "$HOME_DIR"
+
+# Collecte des gentxs (CETTE COMMANDE DOIT CORRIGER LE SOLDE TOTAL)
+wasmd genesis collect-gentxs --home "$HOME_DIR"
+
+
+# --- 3. APPLICATION DES CORRECTIONS DE CONFIG.TOML (Re-création propre) ---
+echo "--- Étape 3: Application des optimisations pour le nœud unique... ---"
+CONFIG_PATH="$HOME_DIR/config/config.toml"
+# Les fichiers de config ont été recréés par init, nous appliquons les patchs
+sed -i 's/addr_book_strict = true/addr_book_strict = false/g' "$CONFIG_PATH"
+sed -i 's/pex = true/pex = false/g' "$CONFIG_PATH"
+sed -i 's/allow_duplicate_ip = false/allow_duplicate_ip = true/g' "$CONFIG_PATH"
+sed -i 's/timeout_commit = "5s"/timeout_commit = "1s"/g' "$CONFIG_PATH"
+
+
+# --- 4. VALIDATION ET DÉMARRAGE ---
+echo "--- Étape 4: Validation et démarrage de la chaîne... ---"
+wasmd genesis validate-genesis --home "$HOME_DIR"
+
+echo "Validation du Genesis réussie. Démarrage du nœud..."
+wasmd start --home "$HOME_DIR"
+EOF
+chmod +x ~/wasmd/setup_monkey.sh
