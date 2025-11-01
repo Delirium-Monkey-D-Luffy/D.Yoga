@@ -59,7 +59,7 @@ Axiom stored in `CDU-Core` → **99.9% supermajority + 1-year TimeLock**.
 | Niyama (Sanskrit)                       | **Cool-Groove Name (Original)** | **Sacred Name** | **Sacred Description**    | Smart Contract / Mechanism                   | **Original Technical Function (PDF)**                                                                            |
 | --------------------------------------- | ------------------------------------- | --------------------- | ------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Saucha** (Purity/Clarity)       | **Clarity-Filter**              | **LUMEN**       | The Blade of Primordial Light   | `TapasEnforcer` / `Proposal Module`      | Rejects proposals or `leçon_apprise` submissions that are vague, incomplete, or unstructured.                       |
-| **Santosha** (Contentment)        | **Cycle-Celebrate**             | **EUPHORIA**    | The Ritual of Cosmic Joy        | `D.Chronos Aion` / `Celebration Trigger` | The Chronos contract triggers celebration events (Lion Month, Day Out of Time) to encourage gratitude and contentment. |
+| **Santosha** (Contentment)        | **Cycle-Celebrate**             | **SANTOSHA**    | The Ritual of Cosmic Joy        | `D.Chronos Aion` / `Celebration Trigger` | The Chronos contract triggers celebration events (Lion Month, Day Out of Time) to encourage gratitude and contentment. |
 | **Tapas** (Discipline/Effort)     | **Flow-Reward**                 | **IGNIS**       | The Sacred Fire of Effort       | `DharmaPulse` / EWMA Karma                 | Karma rewards consistency and verifiable effort (EWMA - Exponentially Weighted Moving Average).                        |
 | **Svadhyaya** (Self-study)        | **Learn-or-Block**              | **SOPHIA**      | The Embodied Divine Wisdom      | `TapasEnforcer` / `Systematization Loop` | User is blocked from mission validation until a `leçon_apprise` (Svadhyaya) is submitted.                           |
 | **Ishvara Pranidhana** (Devotion) | **Axiom-Core**                  | **THRONOS**     | The Eternal Throne of the Axiom | `CDU-Core`                                 | Acceptance of Axiom I as the unalterable foundation of the system.                                                     |
@@ -80,7 +80,7 @@ graph TD
     B --> H[KALPA<br>Anti-Hoarding]
 
     C --> I[LUMEN<br>Clarity-Filter]
-    C --> J[EUPHORIA<br>Cycle-Celebrate]
+    C --> J[SANTOSHA<br>Cycle-Celebrate]
     C --> K[IGNIS<br>Flow-Reward]
     C --> L[SOPHIA<br>Learn-or-Block]
     C --> M[THRONOS<br>Axiom-Core]
@@ -119,7 +119,7 @@ Next step:
 > **Dharma has its protocol. And it’s called CDU.**
 
 **Monkey.**
-*The King of Pirates.*
+*The future King of Pirates.*
 
 ---
 

@@ -1,7 +1,8 @@
-**FICHIER FINAL – `D_DHARMA_Architecture_Ethique_FR_FINAL.md`**
+**FICHIER FINAL – `D_DHARMA_Architecture_Ethique_FR_FINAL_COOL.md`**
+*(Français **ultra-cool**, style pirate cosmique – VS Code 100% compatible)*
 
 ```markdown
-# D.DHARMA : L'Architecture Éthique de la Constitution Dharmique Universelle
+# D.DHARMA : L’Architecture Éthique de la Constitution Dharmique Universelle
 
 ## (CDU – Fondations Éthiques)
 
@@ -13,24 +14,24 @@
 
 Salut Gorilla,
 
-Voici le **pitch de feu** pour l’intégration des **fondations éthiques de la CDU**.  
+Voici le **pitch de feu** pour intégrer les **fondations éthiques de la CDU**.  
 On ne code pas des lois.  
-On code **le Dharma**.
+On **grève le Dharma dans le CosmWasm**.
 
-Les **Yamas & Niyamas** deviennent **10 Smart Contracts modulaires**, avec les **noms Cool-Groove originaux du document** et des **noms sacrés** pour la vibe divine.
+Les **Yamas & Niyamas** deviennent **10 Smart Contracts modulaires**, avec les **noms Cool-Groove originaux du doc** et des **noms sacrés** pour la vibe divine.
 
 ---
 
-## 1. L'Axiome Fondamental : Le Code Source de la Dignité
+## 1. L’Axiome Fondamental : Le Code Source de la Dignité
 
-> **Axiome I : L'Unité du Purusha et la Loi de l'Harmonie**
+> **Axiome I : L’Unité du Purusha et la Loi de l’Harmonie**
 
-- **1.1.** **Le Purusha Inaltérable** : Tout Être Vivant est porteur du **Purusha**, une essence **divine, inaltérable, éternellement Joyeuse et Immortelle**.  
-- **1.2.** **La Loi de l’Harmonie** : Le destin de chaque Être est de **s’épanouir en toute Liberté, dans la Joie, la Paix et l’Harmonie**.  
-- **1.3.** **La Soumission au Créateur D.** : Les Smart Contracts de la DTC **servent l’Ordre Cosmique (le Dharma)**, jamais ne le violent.
+- **1.1.** **Le Purusha Inaltérable** : Chaque Être Vivant porte **Purusha**, une essence **divine, inaltérable, éternellement Joyeuse et Immortelle**.  
+- **1.2.** **La Loi de l’Harmonie** : Le destin de chacun = **s’épanouir en totale Liberté**, dans la **Joie, la Paix, l’Harmonie**.  
+- **1.3.** **Soumission au Créateur D.** : Les contrats DTC **servent l’Ordre Cosmique (Dharma)**, jamais ne le violent.
 
 **Traduction CosmWasm** :  
-Axiome stocké dans `CDU-Core` → **99.9% supermajority + 1 an TimeLock**.
+Axiome gravé dans `CDU-Core` → **99.9% supermajorité + 1 an TimeLock**.
 
 ```rust
 // Axiome I : Le Purusha est inaltérable. Le Dharma est l’Harmonie. Nous servons, jamais nous ne dominons.
@@ -40,7 +41,7 @@ Axiome stocké dans `CDU-Core` → **99.9% supermajority + 1 an TimeLock**.
 
 ## 2. Les 10 Lois du Protocole : Yamas & Niyamas
 
-*(Original Cool-Groove + Sacred Edition)*
+*(Édition Cool-Groove Originale + Sacrée)*
 
 ### A. Les Yamas (Codes Sociaux – Loi du Consensus)
 
@@ -59,7 +60,7 @@ Axiome stocké dans `CDU-Core` → **99.9% supermajority + 1 an TimeLock**.
 | Niyama (Sanskrit)                        | **Nom Cool-Groove (Original)** | **Nom Sacré** | **Description Sacrée**   | Smart Contract / Mécanisme                  | **Fonction Technique (Original du PDF)**                                                                                                   |
 | ---------------------------------------- | ------------------------------------ | -------------------- | ------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Saucha** (Pureté/Clarté)       | **Clarity-Filter**             | **LUMEN**      | La Lame de Lumière Primordiale | `TapasEnforcer` / `Proposal Module`      | Rejette les propositions ou les soumissions de `leçon_apprise` qui sont floues, incomplètes ou non structurées.                             |
-| **Santosha** (Contentement)        | **Cycle-Celebrate**            | **EUPHORIA**   | Le Rituel de la Joie Cosmique   | `D.Chronos Aion` / `Celebration Trigger` | Le contrat Chronos déclenche des événements de célébration (Mois Lion, Jour Hors du Temps) pour encourager la gratitude et le contentement. |
+| **Santosha** (Contentement)        | **Cycle-Celebrate**            | **SANTOSHA**   | Le Rituel de la Joie Cosmique   | `D.Chronos Aion` / `Celebration Trigger` | Le contrat Chronos déclenche des événements de célébration (Mois Lion, Jour Hors du Temps) pour encourager la gratitude et le contentement. |
 | **Tapas** (Discipline/Effort)      | **Flow-Reward**                | **IGNIS**      | Le Feu Sacré de l’Effort      | `DharmaPulse` / EWMA Karma                 | Le Karma récompense la constance et l'effort vérifiable (EWMA - Exponentially Weighted Moving Average).                                        |
 | **Svadhyaya** (Apprentissage)      | **Learn-or-Block**             | **SOPHIA**     | La Sagesse Divine Incarnée     | `TapasEnforcer` / `Systematization Loop` | L'utilisateur est bloqué dans la validation de sa mission tant qu'il n'a pas soumis une `leçon_apprise` (Svadhyaya).                         |
 | **Ishvara Pranidhana** (Dévotion) | **Axiom-Core**                 | **THRONOS**    | Le Trône de l’Axiome Éternel | `CDU-Core`                                 | L'acceptation de l'Axiome I comme fondation inaltérable du système.                                                                            |
@@ -80,7 +81,7 @@ graph TD
     B --> H[KALPA<br>Anti-Hoarding]
 
     C --> I[LUMEN<br>Clarity-Filter]
-    C --> J[EUPHORIA<br>Cycle-Celebrate]
+    C --> J[SANTOSHA<br>Cycle-Celebrate]
     C --> K[IGNIS<br>Flow-Reward]
     C --> L[SOPHIA<br>Learn-or-Block]
     C --> M[THRONOS<br>Axiom-Core]
@@ -102,7 +103,7 @@ graph TD
 
 ---
 
-## 4. Conclusion : L'Architecture du Dharma
+## 4. Conclusion : L’Architecture du Dharma
 
 Gorilla,
 
@@ -119,10 +120,11 @@ Prochaine étape :
 > **Le Dharma a son protocole. Et il s’appelle CDU.**
 
 **Monkey.**
-*Le future Roi des Pirates.*
+*Le futur Roi des Pirates.*
 
 ---
 
 ```
+
 
 ```
