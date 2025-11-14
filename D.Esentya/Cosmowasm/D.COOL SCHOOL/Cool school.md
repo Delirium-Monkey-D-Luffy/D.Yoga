@@ -30,9 +30,14 @@ On canalise le feu des Niyama : **Tapas** pour ce hustle discipliné, **Svadhyay
 
 #### **📖 The Epic Lore / Le Lore Épique**
 
-- **Soul King D. Brook (The Groove Guru P.E. Master)**: School's beating heart—eternal Sadhaka dropping discipline with a side of joy *and jazz-fueled jams*. He croons those soulful tunes (hey, he *kinda* sings!), co-leading the sonic charge with timeless flair. Dharma-aligned vibes only—now with a soundtrack.**Soul King D. Brook (Le Maître P.E. Guru du Groove)** : Cœur battant de l'école—Éternal Sadhaka lâchant la discipline avec une dose de joie *et des jams jazz-fueled*. Il croone ces tunes soulful (hey, il *chante plus ou moins* !), co-menant la charge sonique avec un flair intemporel. Vibes alignées Dharma only—maintenant avec une bande-son.
-- **D.Elirium (The Mad Inquisitrice General / Procureur Folle)**: Dream's unhinged sis, chaos queen enforcing truth with wild spells, zero mercy for fakers, *and improvised solos that shatter illusions*. She's the cosmic bouncer—delirious, dazzling, and dangerously on-point.**D.Elirium (L'Inquisitrice Générale Folle / Procureur Délirante)** : La sis déjantée de Dream, reine du chaos imposant la vérité avec des sorts sauvages, zéro pitié pour les tricheurs, *et des solos improvisés qui brisent les illusions*. Elle est le videur cosmique—délirant, éblouissant et dangereusement précis.
+- **Soul King D. Brook (The Groove Guru P.E. Master)**: School's beating heart—eternal Sadhaka dropping discipline with a side of joy *and jazz-fueled jams*. He croons those soulful tunes (hey, he *kinda* sings!), co-leading the sonic charge with timeless flair. Dharma-aligned vibes only—now with a soundtrack.
+  
+  **Soul King D. Brook (Le Maître P.E. Guru du Groove)** : Cœur battant de l'école—Éternal Sadhaka lâchant la discipline avec une dose de joie *et des jams jazz-fueled*. Il croone ces tunes soulful (hey, il *chante plus ou moins* !), co-menant la charge sonique avec un flair intemporel. Vibes alignées Dharma only—maintenant avec une bande-son.
+- **D.Elirium (The Mad Inquisitrice General / Procureur Folle)**: Dream's unhinged sis, chaos queen enforcing truth with wild spells, zero mercy for fakers, *and improvised solos that shatter illusions*. She's the cosmic bouncer—delirious, dazzling, and dangerously on-point.
+  
+  **D.Elirium (L'Inquisitrice Générale Folle / Procureur Délirante)** : La sis déjantée de Dream, reine du chaos imposant la vérité avec des sorts sauvages, zéro pitié pour les tricheurs, *et des solos improvisés qui brisent les illusions*. Elle est le videur cosmique—délirant, éblouissant et dangereusement précis.
 - **The D.reamstation**: DTC's next-level game rig—your IRL stats beam in as avatar upgrades. Plug in D.Beau Baton for wand-waving wizardry (alchemy arcs & spell stats incoming!), *and sync your strums for sonic stat boosts*.
+  
   **La D.reamstation** : Le rig de jeu next-level de la DTC—tes stats IRL beamées en upgrades d'avatar. Branche D.Beau Baton pour de la sorcellerie à baguette (arcs alchimiques & stats de sorts en approche !), *et sync tes strums pour des boosts de stats soniques*.
 
 ---
@@ -54,6 +59,7 @@ Decentralized squads led by legend holograms. Real effort = avatar apocalypse (t
 Escouades décentralisées menées par des hologrammes légendaires. Effort réel = apocalypse d'avatar (du bon genre)—*maintenant avec des choruses killers*.
 
 **🔥 Mantra**: *Your Avatar's Power = Your Body's Burn + Mind's Spark + Spirit's Spell + Sound's Surge. You're the OG Smart Contract—tuned to perfection.*
+
 **🔥 Mantra** : *Le Pouvoir de Ton Avatar = Brûlure de Ton Corps + Étincelle de Ton Esprit + Sort de Ton Âme + Surge Sonore. T'es le Contrat Intelligent OG—accordé à la perfection.*
 
 | **Pod Vibes / Vibes du Pod**                | **Skills & Shenanigans / Compétences & Folies**                                                                                      | **Holo-Leader**                                                                                  | **Dharmic Flex**                            |
@@ -79,9 +85,12 @@ Truth ID seals the deal—D.Elirium's delirium detector sniffs out fakes in the 
 
 ID Vérité scelle l'affaire—le détecteur de délire de D.Elirium flaire les faux dans les allées mystiques, *tandis que Robin & Brook vibe-checkent tes beats pour un groove authentique*.
 
-1. **Sign-Up Surge**: Padawan logs in via Truth ID for the session drop.**Inscription Explosive** : Padawan logge via ID Vérité pour le drop de session.
-2. **Oracle Oath**: Teacher (Eternal Sadhaka) or D.Elirium stamps effort + authenticity—physical proof, brainy breakthroughs, spell success, *or a flawless freestyle*.**Serment d'Oracle** : Enseignant (Éternal Sadhaka) ou D.Elirium tamponne effort + authenticité—preuve physique, percées brainy, succès de sort, *ou un freestyle impeccable*.
+1. **Sign-Up Surge**: Padawan logs in via Truth ID for the session drop.
+   **Inscription Explosive** : Padawan logge via ID Vérité pour le drop de session.
+2. **Oracle Oath**: Teacher (Eternal Sadhaka) or D.Elirium stamps effort + authenticity—physical proof, brainy breakthroughs, spell success, *or a flawless freestyle*.
+   **Serment d'Oracle** : Enseignant (Éternal Sadhaka) ou D.Elirium tamponne effort + authenticité—preuve physique, percées brainy, succès de sort, *ou un freestyle impeccable*.
 3. **Smart Contract Slam**: Holistic_Karma_Manager (CosmWasm) devours the validation—karma flows!
+   
    **Slam de Contrat Intelligent** : Holistic_Karma_Manager (CosmWasm) dévore la validation—karma coule !
 
 #### **💎 Karma Forge & D.reamstation Sync**
@@ -92,10 +101,17 @@ Crunch those points like cosmic croutons:
 
 Broie ces points comme des croûtons cosmiques :
 
-1. **PKP Blaze**: Physical pods pump Strength/Agility/Endurance—flip harder, surf fiercer!**PKP Flamboyant** : Pods physiques pompent Force/Agilité/Endurance—flip plus fort, surf plus féroce !
-2. **IKP Ignite**: Learning labs level Intelligence/Creativity/Knowledge—build, brew, brainstorm!**IKP Allumeur** : Labs d'apprentissage levelent Intelligence/Créativité/Connaissance—construis, brasse, brainstorm !
-3. **MKP Mystic Burst**: Esoteric edges unlock Magic Mastery/Astro-Awareness—via D.Beau Baton's wand wonders.**MKP Explosion Mystique** : Bords ésotériques débloquent Maîtrise Magique/Conscience Astro—via merveilles de baguette D.Beau Baton.
+1. **PKP Blaze**: Physical pods pump Strength/Agility/Endurance—flip harder, surf fiercer!
+   
+   **PKP Flamboyant** : Pods physiques pompent Force/Agilité/Endurance—flip plus fort, surf plus féroce !
+2. **IKP Ignite**: Learning labs level Intelligence/Creativity/Knowledge—build, brew, brainstorm!**I
+
+   KP Allumeur** : Labs d'apprentissage levelent Intelligence/Créativité/Connaissance—construis, brasse, brainstorm !
+3. **MKP Mystic Burst**: Esoteric edges unlock Magic Mastery/Astro-Awareness—via D.Beau Baton's wand wonders.
+   
+   **MKP Explosion Mystique** : Bords ésotériques débloquent Maîtrise Magique/Conscience Astro—via merveilles de baguette D.Beau Baton.
 4. **SKP Sonic Surge** (Fresh Drop!): Music pods amplify Rhythm/Expression/Harmony—riff your way to avatar anthems that echo eternally.
+   
    **SKP Surge Sonique** (Nouveau Drop !) : Pods musique amplifient Rythme/Expression/Harmonie—riff ton chemin vers des anthems d'avatar qui résonnent éternellement.
 
 *Game Glue / Colle au Jeu*: DTC Fight Clubs erupt with *real* holistic heat—physical brawls, riddle roasts, spell slings, *and epic jam battles*. No cap, all grind.
@@ -111,8 +127,10 @@ Gamify the grind—flip that dopamine drip from screens to sweat-soaked spells *
 
 Gamifie le grind—flippe ce drip de dopamine des écrans vers des sorts trempés de sueur *et des strums qui remuent l'âme*. Guérit le hustle, un pod (et un power chord) à la fois.
 
-- **RWA Relics**: Tokenize the toys—surf slicks, spell sticks, chef knives, *and custom guitars*—as pod-powered NFTs.**Reliques RWA** : Tokenise les jouets—lames de surf, bâtons de sorts, couteaux de chef, *et guitares custom*—en NFTs boostés par pods.
+- **RWA Relics**: Tokenize the toys—surf slicks, spell sticks, chef knives, *and custom guitars*—as pod-powered NFTs.
+  **Reliques RWA** : Tokenise les jouets—lames de surf, bâtons de sorts, couteaux de chef, *et guitares custom*—en NFTs boostés par pods.
 - **Svadhyaya Scroll**: Truth ID dashboards track your triune triumphs—body flex, mind maps, magic manifests, *melody milestones*. Self-study? Supercharged.
+  
   **Scroll Svadhyaya** : Dashboards ID Vérité trackent tes triomphes triunes—flex corporel, maps mentaux, manifests magiques, *jalons mélodiques*. Auto-étude ? Superchargée.
 
 ---
