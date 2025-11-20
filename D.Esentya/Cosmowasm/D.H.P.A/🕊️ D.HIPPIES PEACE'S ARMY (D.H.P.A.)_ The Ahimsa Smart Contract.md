@@ -14,6 +14,7 @@ The D.H.P.A. is the implementation of **Yama Ahimsa (Non-Violence)** and **Satya
 ### The Lore: The Cool-Groove Hierarchy
 
 * **Supreme Rank (Smart Contract):** **MAKE LOVE Captain D.estruction** (The missing brother of the Eternals). He is the guarantor of Ahimsa and the strategy of non-violence.
+* **First Slasher fire-fist Captain Portgas D. Ace** : he uses the Fire of Metal Trash Pandera harcore in a slasher way : to protect the DTC principles !!!
 * **Love General:** **Bob D. Marley**. He oversees reconciliation and mediation.
 * **Groove Master Guitar Admiral:** **Jimi D. Hendrix**. He uses frequency and sound to disarm and pacify.
 
