@@ -36,7 +36,7 @@ Zéro déchet. 100 % autonomie. 100 % cool-groove.
 - Tentative de pas faire ses corvées → **_𝐀̲𝐋̲𝐅̲𝐑̲𝐄̲𝐃_** bloque tout et te dit :
   « Nakama, on recycle d’abord, sinon pas de Luffy aujourd’hui ❤️ »
 
-### 4. La Licence To Love – Ton permis de héros
+### 4. La Licence To KickAss– Ton permis de héros
 
 | Licence | Validée par                                              | Exemples d’avatars        |
 | ------- | --------------------------------------------------------- | -------------------------- |

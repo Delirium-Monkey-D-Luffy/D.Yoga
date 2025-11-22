@@ -36,7 +36,7 @@ Zero waste. 100 % self-sufficiency. 100 % cool-groove.
 - Attempt to skip chores → **_A̲L̲F̲R̲E̲D_** locks everything and says:
   “Nakama, we recycle first, otherwise no Luffy today ❤️”
 
-### 4. Licence To Love – Your hero license
+### 4. Licence To Kickass – Your hero license
 
 | License | Validated by                                 | Example avatars            |
 | ------- | -------------------------------------------- | -------------------------- |
