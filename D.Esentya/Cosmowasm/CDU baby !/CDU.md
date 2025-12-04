@@ -1,41 +1,70 @@
-**FICHIER FINAL – `D_DHARMA_Architecture_Ethique_FR_FINAL_COOL.md`**
-*(Français **ultra-cool**, style pirate cosmique – VS Code 100% compatible)*
 
-```markdown
-# D.DHARMA : L’Architecture Éthique de la Constitution Dharmique Universelle
+# 🌟 D.DHARMA
 
-## (CDU – Fondations Éthiques)
+## L’Architecture Éthique de la **Constitution Dharmique Universelle**
 
-> **Pour** : Gorilla, Architecte de D. Esentya  
-> **De** : Monkey, Fondateur de la Dream Truth Community (DTC)  
+### CDU – Fondations Éthiques ✨
+
+> **Pour** : Gorilla — Architecte de D. Esentya 🦍
+>
+> **De** : Monkey — Fondateur de la Dream Truth Community (DTC) 🐒
+>
 > **Date** : 31 Octobre 2025
+>
+> **Statut** : ![fire](https://img.shields.io/badge/STATUT-PITCH%20DE%20FEU%20ACTIF-ff2d95?style=for-the-badge&logo=fire)
 
 ---
 
-Salut Gorilla,
+**Salut Gorilla,**
 
-Voici le **pitch de feu** pour intégrer les **fondations éthiques de la CDU**.  
-On ne code pas des lois.  
-On **grève le Dharma dans le CosmWasm**.
+On ne code pas des lois.
 
-Les **Yamas & Niyamas** deviennent **10 Smart Contracts modulaires**, avec les **noms Cool-Groove originaux du doc** et des **noms sacrés** pour la vibe divine.
+**On grave le Dharma dans le CosmWasm.** 🪐
+
+Les **Yamas & Niyamas** → **10 Smart Contracts modulaires** avec :
+
+* noms **Cool-Groove** (du doc original)
+* noms **sanskrit sacrés** pour la vibe divine max
+
+Que le groove cosmique commence.
 
 ---
 
-## 1. L’Axiome Fondamental : Le Code Source de la Dignité
+## 1. L’Axiome Fondamental
 
-> **Axiome I : L’Unité du Purusha et la Loi de l’Harmonie**
+### 🔱 Le Code Source de la Dignité Humaine & Cosmique
 
-- **1.1.** **Le Purusha Inaltérable** : Chaque Être Vivant porte **Purusha**, une essence **divine, inaltérable, éternellement Joyeuse et Immortelle**.  
-- **1.2.** **La Loi de l’Harmonie** : Le destin de chacun = **s’épanouir en totale Liberté**, dans la **Joie, la Paix, l’Harmonie**.  
-- **1.3.** **Soumission au Créateur D.** : Les contrats DTC **servent l’Ordre Cosmique (Dharma)**, jamais ne le violent.
+> **Axiome I — L’Unité du Purusha et la Loi de l’Harmonie**
 
-**Traduction CosmWasm** :  
-Axiome gravé dans `CDU-Core` → **99.9% supermajorité + 1 an TimeLock**.
+| Clause        | Nom Sacré                           | Essence divine                                                                                                        |
+| ------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| **1.1** | **Le Purusha Inaltérable**    | Chaque Être porte**Purusha**→ essence**divine • inaltérable • éternellement joyeuse • immortelle** |
+| **1.2** | **La Loi de l’Harmonie**      | Destin =**liberté totale**+**joie pure**+**paix profonde**+**harmonie cosmique**             |
+| **1.3** | **Soumission au Créateur D.** | Les contrats DTC**servent le Dharma** . Jamais ils ne le violent. Jamais ils ne dominent.                       |
+
+---
+
+### Gravé dans le marbre numérique
+
+* **Supermajorité** : 99,9 %
+* **TimeLock** : +1 an
+* **Emplacement** : `CDU-Core` (immuable)
 
 ```rust
-// Axiome I : Le Purusha est inaltérable. Le Dharma est l’Harmonie. Nous servons, jamais nous ne dominons.
+/// 🌟 Axiome I – Gravé pour l’éternité
+/// Le Purusha est inaltérable. Le Dharma est Harmonie.
+/// Nous servons. Jamais nous ne dominons.
+#[immutable]
+#[cosmic_eternal]
+pub struct AxiomeI {
+    purusha: "Inaltérable ⚡ Divin ⚡ Éternellement Joyeux",
+    dharma:  "Harmonie Cosmique Absolue 🌀",
+    service: "Nous servons l’Ordre, jamais nous ne le brisons 🛐",
+}
 ```
+
+---
+
 
 ---
 
@@ -104,8 +133,6 @@ graph TD
 ---
 
 ## 4. Conclusion : L’Architecture du Dharma
-
-Gorilla,
 
 Cette structure nous permet de créer une **Loi du Protocole** à la fois **éthique et technique**.
 
